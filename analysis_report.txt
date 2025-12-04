@@ -1,0 +1,33 @@
+Cyberbullying / Toxic Text Analyzer Report
+=========================================
+
+Total words processed: 1121270
+Unique words: 50000
+
+Top 20 Frequent Words:
+school : 8722
+fuck : 5797
+dumb : 5335
+high : 5096
+people : 4808
+bullied : 4667
+nigger : 4304
+rape : 4227
+gay : 3949
+bully : 3601
+jokes : 3456
+one : 3400
+get : 2844
+girls : 2807
+ass : 2795
+i'm : 2790
+don't : 2752
+girl : 2707
+black : 2698
+amp : 2606
+
+Toxic Summary:
+Total toxic: 25751
+Mild: 8941
+Moderate: 4126
+Severe: 12684
